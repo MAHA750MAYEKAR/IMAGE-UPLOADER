@@ -4,3 +4,5 @@ mongodb+srv://mahananda:<db_password>@cluster0.htszx.mongodb.net/?retryWrites=tr
 
 
 DB_URL="mongodb+srv://mahananda:TUKTUK21P043026@cluster0.htszx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+git remote add origin https://github.com/MAHA750MAYEKAR/IMAGE-UPLOADER.git
