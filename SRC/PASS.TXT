@@ -1,0 +1,6 @@
+PASSWORD=OQaldytpWxvUSwbe
+
+mongodb+srv://mahananda:<db_password>@cluster0.htszx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+DB_URL="mongodb+srv://mahananda:TUKTUK21P043026@cluster0.htszx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
